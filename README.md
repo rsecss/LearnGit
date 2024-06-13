@@ -6,3 +6,7 @@ hahaha!!!
 我想要自由！！！
 Creating a new branch is quick.
 This is my first learn Git.
+
+Git教程
+
+- faeture-A
