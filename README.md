@@ -10,3 +10,4 @@ This is my first learn Git.
 Git教程
 
 - faeture-A
+- feature-B
